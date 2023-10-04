@@ -1,6 +1,5 @@
 # Aberoth-Computer-Vision
 
-# Aberoth-Computer-Vision
 
 This was a fun experiment where I created a module for my [Custom Aberoth Gameclient](https://github.com/thomasriley0/Custom-Aberoth-GameClient). I experimented with computer vision using the library [opencv.js](https://docs.opencv.org/) which is an open-source library supporting computer vision usecases like template matching and pixel masking on an image. 
 
