@@ -7,16 +7,13 @@ The file computerVision.js is a module that can be added to the [Modded Game Cli
 
 A visual is added below to demonstrate how the edge detection and masking works:
 
-Current Picture of Game Client:
+<h2>Current Picture of Game Client:</h2>
 
 <img width="640" alt="Screenshot 2023-10-03 at 6 47 37 PM" src="https://github.com/thomasriley0/Aberoth-Computer-Vision/assets/129229020/59763380-af93-4733-9792-4268ed39a613">
 
-Picture after edge detection and pixel masking:
+<h2>Picture after edge detection and pixel masking:</h2>
 
 <img width="595" alt="Screen Shot 2022-12-12 at 12 56 42 AM" src="https://github.com/thomasriley0/Aberoth-Computer-Vision/assets/129229020/303c223d-4ac5-4439-9e70-2090dff4b9fa">
-
-By utilizing edge detection and pixel matching, we can confidently match the edges of the cave with the edges of the cave with the overall map of the entire region to find the subregion of the map that we are in.
-A visual is added below to demonstrate how the module works:
 
 https://github.com/thomasriley0/Aberoth-Computer-Vision/assets/129229020/2699d2fc-e2ee-468f-b5d6-864bc365f30d
 
